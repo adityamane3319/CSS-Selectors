@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(255, 117, 67);
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: rgb(106, 255, 106);
+}
+
+.redText{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+.blackText{
+    color: black;
+    font-size: x-large;
+}
+
+body > ul li:nth-child(1){
+    color: white;
+}
+body > ul li:nth-child(2){
+    color: white;
+}
+
+a[href*="upskillmafia"] {
+  color: blue;
+  background-color: yellow;
+}
+
+a[href*="google"] {
+  color: blue;
+  background-color: rgb(152, 152, 255);
+}
+
+li{
+    color: black;
+}
+
+body > ol li:nth-child(2) {
+  color: blue;
+}
+
+body > ol li:nth-child(3) {
+  color: red;
+}
+
